@@ -1,7 +1,7 @@
 -<h1 align="center">Hello Folks 👋, Jatin here!</h1>
 <h3 align="center">Im a Flutter developer and ethical hacker from india</h3>
 
-- 🌱 I’m currently learning **Flutter and Network penetration and Cross platform application development**
+- Crrently learning **Flutter  Network penetration and Cross platform application development With QT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
