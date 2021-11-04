@@ -9,4 +9,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharyjatin115&layout=compact)
 
 ![](https://img.shields.io/badge/<Tech>-<Flutter>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<OS>-<Linux-Windows>-informational?style=flat&logo=<linux>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<OS>-<Linux-Windows>-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
