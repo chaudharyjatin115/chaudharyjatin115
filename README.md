@@ -2,7 +2,7 @@
 - interested in tech ethical hacking and eveything open source
 - Currently a noob in Hacking 
 - Learning flutter
-[[chaudharyjatin115](https://github-readme-stats.vercel.app/api?username=chaudharyjatin115)](https://github.com/chaudharyjatin115/github-readme-stats)]
+[![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaudharyjatin115)](https://github.com/chaudharyjatin115/github-readme-stats)
 
 <!---
 chaudharyjatin115/chaudharyjatin115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
