@@ -6,6 +6,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=chaudharyjatin115&show_icons=true&theme=radical)
 
-![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharyjatin115&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharyjatin115&layout=compact)
 
 ![](https://img.shields.io/badge/<Tech>-<Flutter>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
