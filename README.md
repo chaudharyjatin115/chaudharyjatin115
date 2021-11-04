@@ -1,5 +1,5 @@
-<h1 align="center">Hello Folks 👋, Jatin</h1>
-<h3 align="center">here im a Flutter developer and ethical hacker from india</h3>
+<h1 align="center">Hello Folks 👋, Jatin here!</h1>
+<h3 align="center">Im a Flutter developer and ethical hacker from india</h3>
 
 - 🌱 I’m currently learning **Flutter and Network penetration and Cross platform application development**
 
