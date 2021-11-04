@@ -8,4 +8,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharyjatin115&layout=compact)
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>
+![](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
