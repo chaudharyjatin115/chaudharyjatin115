@@ -14,4 +14,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaudharyjatin115&show_icons=true&locale=en&layout=compact" alt="chaudharyjatin115" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaudharyjatin115&" alt="chaudharyjatin115" /></p>
+<p><img align="center" src=https://github-readme-stats.vercel.app/api?username=chaudharyjatin115&show_icons=true&theme=radical /></p>
