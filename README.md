@@ -2,7 +2,7 @@
 - interested in tech ethical hacking and eveything open source
 - Currently a noob in Hacking 
 - Learning flutter
-[![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaudharyjatin115show_icons=true)
+[![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaudharyjatin115&show_icons=true)
 )](https://github.com/chaudharyjatin115/github-readme-stats)
 
 <!---
