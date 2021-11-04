@@ -4,9 +4,7 @@
 - Currently a noob in Hacking 
 - Learning flutter
 -[![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaudharyjatin115&show_icons=true&theme=radical)
-)
-)](https://github.com/chaudharyjatin115/github-readme-stats)
-
+]
+(https://github.com/chaudharyjatin115/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharyjatin115&layout=compact)](https://github.com/chaudharyjatin115/github-readme-stats)
-
 ![](https://img.shields.io/badge/<Tech>-<Flutter>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
