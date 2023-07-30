@@ -1,6 +1,6 @@
 -<h1 align="left">Hello Folks 👋, Jatin here!</h1>
 <h3 align="left">a Flutter developer and ethical hacker from india</h3>
-- Currently learning Flutter and  Network penetration 
+- Currently learning Flutter and  Reverse engineering
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
